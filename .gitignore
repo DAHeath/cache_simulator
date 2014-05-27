@@ -1,0 +1,9 @@
+*
+!*.h
+!*.hpp
+!*.c
+!*.cpp
+!*.a
+!*.taskgraph
+!Makefile
+!.gitignore
